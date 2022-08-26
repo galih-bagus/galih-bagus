@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bagusprakasa
-- 👀 I’m interested in php, javascript, css, html, web laravel framework, ci3 web framework, figma, ui/ux design, go, automation testing with mocha
-- 🌱 I’m currently learning Go and Automation testing with mocha
+- 👀 I’m interested in php, javascript, css, html, web laravel framework, ci3 web framework, figma, ui/ux design, go, automation testing with mocha and chai
+- 🌱 I’m currently learning Go and Automation testing with mocha and chai
 - 💞️ I’m looking to collaborate on front end web dev, back end web dev, ux designer, qa automation testing
 - 📫 How to reach me @galih_gorilla on instagram or galihbagus333@gmail.com
 
