@@ -7,9 +7,7 @@
 ---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bagusprakasa&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-<br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagusprakasa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagusprakasa&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 bagusprakasa/bagusprakasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
