@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning manual testing, automation testing api with mocha and chai, and automation testing Website with cypress js and selenium js 
 - 💞️ I’m looking to collaborate on front end web dev, back end web dev, fullstack web dev, manual testing, automation testing
 - 📫 How to reach me @galih_gorila on instagram or galihbagus333@gmail.com or linkedin [Galih Bagus Prakasa](https://www.linkedin.com/in/galih-bagus-prakasa-067252208/)
-
+![](https://komarev.com/ghpvc/?username=bagusprakasa)
 ---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bagusprakasa&theme=radical&date_format=j%20M%5B%20Y%5D)](https://github.com/bagusprakasa)
