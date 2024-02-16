@@ -7,11 +7,11 @@
 ![People see my profile](https://komarev.com/ghpvc/?username=bagusprakasa)
 ---
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bagusprakasa&theme=radical&date_format=j%20M%5B%20Y%5D)](https://github.com/bagusprakasa)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=galih-bagus&theme=radical&date_format=j%20M%5B%20Y%5D)](https://github.com/bagusprakasa)
 <br />
-[![Bagusprakasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagusprakasa&show_icons=true&theme=radical)](https://github.com/bagusprakasa)
+[![GalihBagus's GitHub stats](https://github-readme-stats.vercel.app/api?username=galih-bagus&show_icons=true&theme=radical)](https://github.com/bagusprakasa)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagusprakasa&langs_count=10&layout=compact&theme=radical)](https://github.com/bagusprakasa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galih-bagus&langs_count=10&layout=compact&theme=radical)](https://github.com/bagusprakasa)
 <!---
 bagusprakasa/bagusprakasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
