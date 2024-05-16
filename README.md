@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @galih-bagus
-- 👀 I’m interested in php, laravel, golang, javascript, node js, express js, nest js, vue js, manual testing and automation testing
+- 👀 I’m interested in php, laravel, javascript, node js, react js, vue js, manual testing and automation testing
 - 🌱 I’m currently learning manual testing, automation testing api with mocha and chai, and automation testing Website with cypress js, selenium js, and Webdriver.io js 
 - 💞️ I’m looking to collaborate on front end web dev, back end web dev, fullstack web dev, manual testing, automation testing
 - 📫 How to reach me @galih_gorila on instagram or galihbagus333@gmail.com or linkedin [Galih Bagus](https://www.linkedin.com/in/galih-bagus-067252208/)
