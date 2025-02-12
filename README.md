@@ -6,6 +6,8 @@
 
 ![People see my profile](https://komarev.com/ghpvc/?username=galih-bagus)
 ---
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=galih-bagus)](https://git.io/streak-stats)
 <br />
 [![GalihBagus's GitHub stats](https://github-readme-stats.vercel.app/api?username=galih-bagus&show_icons=true&theme=radical)](https://github.com/galih-bagus)
 <br />
