@@ -7,11 +7,13 @@
 ![People see my profile](https://komarev.com/ghpvc/?username=galih-bagus)
 ---
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=galih-bagus)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=galih-bagus&theme=dark)](https://git.io/streak-stats)
+<!---
 <br />
 [![GalihBagus's GitHub stats](https://github-readme-stats.vercel.app/api?username=galih-bagus&show_icons=true&theme=radical)](https://github.com/galih-bagus)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galih-bagus&langs_count=10&layout=compact&theme=radical)](https://github.com/galih-bagus)
+---!>
 <!---
 galih-bagus/galih-bagus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
